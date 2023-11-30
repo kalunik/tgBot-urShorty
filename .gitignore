@@ -1,0 +1,4 @@
+.idea
+.db_storage
+
+config/config-local.yml
